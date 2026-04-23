@@ -1,0 +1,257 @@
+{
+  "Gaming": {
+    "20000": {"CPU":"AMD Ryzen 3 3200G (with Vega 8 Graphics)","GPU":"Integrated GPU: Radeon Vega 8","RAM":"8GB DDR4 3200MHz (Single Stick)","Storage":"240GB / 256GB SATA SSD","PSU":"Ant Esports VS450L (450W)","Motherboard":"MSI A320M-A PRO MAX (AM4 Socket)","Price":20000,"ComponentPrices": {
+        "CPU": 	7500,
+        "GPU": 	4200,
+        "RAM": 2000,
+        "Storage": 2200,
+        "PSU": 1500,
+        "Motherboard": 4200
+      },
+      "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+3+3200G","GPU":"https://www.amazon.com/s?k=Integrated+GPU+Radeon™+Vega+8","RAM":"https://www.amazon.com/s?k=8GB+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=240GB+SATA+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS450L","Motherboard":"https://www.amazon.com/s?k=MSI+A320M-A+PRO+MAX"}},
+    
+    "25000": {"CPU":"AMD Ryzen 5 5600G (with Radeon Graphics)","GPU":"Integrated GPU: Radeon Vega 7","RAM":"Adata XPG 16GB (8GBx2) DDR4 3200MHz","Storage":"512GB NVMe M.2 SSD","PSU":"Cooler Master MWE 450W Bronze V2","Motherboard":"ASUS Prime A520M-K or MSI B450M-A Pro Max","Price":25000,"ComponentPrices": {
+        "CPU": 12000,
+        "GPU": 5000,
+        "RAM": 2000,
+        "Storage": 2500,
+        "PSU": 2400,
+        "Motherboard": 4500
+      },
+      
+      "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5600G","GPU":"https://www.amazon.com/s?k=Integrated+GPU+Radeon™+Vega+7" ,"RAM":"https://www.amazon.com/s?k=Adata+XPG+16GB+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+M.2+SSD","PSU":"https://www.amazon.com/s?k=Cooler+Master+MWE+450W+Bronze+V2","Motherboard":"https://www.amazon.com/s?k=ASUS+Prime+A520M-K"}},
+    "30000": {"CPU":"AMD Ryzen 5 5600GT","GPU":"ASUS Radeon RX 6400 4GB","RAM":"16GB (2 x 8GB) DDR4 3200MHz","Storage":"512GB NVMe SSD","PSU":"Cooler Master MWE 450 Bronze V2","Motherboard":"ASRock B450M-HDV R4.0","Price":30000,"ComponentPrices": {
+        "CPU": 10000,
+        "GPU": 10500,
+        "RAM": 2000,
+        "Storage": 2000,
+        "PSU": 1600,
+        "Motherboard": 5390
+      },
+      "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5600GT","GPU":"https://www.amazon.com/s?k=ASUS+Radeon+RX+6400+4GB," ,"RAM":"https://www.amazon.com/s?k=16GB+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+SSD","PSU":"https://www.amazon.com/s?k=Cooler+Master+MWE+450W+Bronze+V2","Motherboard":"https://www.amazon.com/s?k=ASRock+B450M-HDV+R4.0"}},
+    "35000": {"CPU":"AMD Ryzen 5 4500","GPU":"Sapphire Pulse AMD Radeon RX 6400","RAM":"8GB DDR4 3200MHz","Storage":"256GB NVMe SSD","PSU":"Ant Esports VS400L","Motherboard":"ASRock B450M-HDV R4.0","Price":35000,"ComponentPrices": {
+        "CPU": 10000,
+        "GPU": 8000,
+        "RAM": 2000,
+        "Storage": 2000,
+        "PSU": 1300,
+        "Motherboard": 5390
+      },
+      "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+4500","GPU":"https://www.amazon.com/s?k=Sapphire+Pulse+AMD+Radeon+RX+6400","RAM":"https://www.amazon.com/s?k=8GB+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=256GB+NVMe+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS400L","Motherboard":"https://www.amazon.com/s?k=ASRock+B450M-HDV+R4.0"}},
+    "40000": {"CPU":"AMD Ryzen 5 5500","GPU":"ASUS Radeon RX 6400 4GB","RAM":"Crucial RAM 16GB (2 x 8GB) DDR4 3200MHz","Storage":"512GB NVMe SSD","PSU":"Ant Esports VS450L","Motherboard":"GIGABYTE A520M K V2","Price":40000,"ComponentPrices": {
+        "CPU": 10000,
+        "GPU": 8000,
+        "RAM": 4500,
+        "Storage": 3200,
+        "PSU": 1600,
+        "Motherboard": 5390
+      },
+       "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5500","GPU":"https://www.amazon.com/s?k=ASUS+Radeon+RX+6400+4GB","RAM":"https://www.amazon.com/s?k=Crucial+RAM+16GB+(2+x+8GB)+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS450L","Motherboard":"https://www.amazon.com/s?k=GIGABYTE+A520M+K+V2"}},
+    "45000": {"CPU":"AMD Ryzen 5 5500","GPU":"Sapphire Pulse AMD Radeon RX 6500 XT 4GB","RAM":"Crucial 16GB (2 x 8GB) DDR4 3200MHz","Storage":"512GB NVMe M.2 SSD","PSU":" Ant Esports VS500L (500W)","Motherboard":"MSI B450M-A PRO MAX II","Price":45000,"ComponentPrices": {
+          "CPU": 10000,
+          "GPU": 13500,
+          "RAM": 4500,
+          "Storage": 3200,
+          "PSU": 2200,
+          "Motherboard": 6899
+      },
+        "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5500","GPU":"https://www.amazon.com/s?k=Sapphire+Pulse+AMD+Radeon+RX+6500+XT+4GB","RAM":"https://www.amazon.com/s?k=Crucial+16GB+(2+x+8GB)+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+M.2+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS500L+(500W)","Motherboard":"https://www.amazon.com/s?k=MSI+B450M-A+PRO+MAX+II"}},
+    "50000": {"CPU":"AMD Ryzen 5 5600","GPU":"ASRock AMD Radeon RX 6600 8GB","RAM":" EVM 16GB DDR4 3200MHz","Storage":"512GB NVMe M.2 SSD","PSU":"Ant Esports VS500L (500W)","Motherboard":"GIGABYTE A520M K V2","Price":50000,"ComponentPrices": {
+            "CPU": 10000,
+            "GPU": 18000,
+            "RAM": 4500,
+            "Storage": 3200,
+            "PSU": 2200,
+            "Motherboard": 5390
+          },
+          "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5600","GPU":"https://www.amazon.com/s?k=ASRock+AMD+Radeon+RX+6600+8GB","RAM":"https://www.amazon.com/s?k=Crucial+16GB+(2+x+8GB)+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+M.2+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS500L+(500W)","Motherboard":"https://www.amazon.com/s?k=GIGABYTE+A520M+K+V2"}},
+    "55000": {"CPU":"AMD Ryzen 5 5500 (6 Cores/12 Threads)","GPU":"GIGABYTE GeForce RTX 3050 WINDFORCE OC 6G","RAM":"EVM 16GB DDR4 3200MHz Desktop RAM","Storage":"Consistent 256GB NVMe PCIe M.2 SSD","PSU":"Ant Esports RX550 550W 80 Plus Bronze","Motherboard":"GIGABYTE B450M K Micro-ATX","Price":55000,"ComponentPrices": {
+                "CPU": 10000,
+                "GPU": 22000,
+                "RAM": 10000,
+                "Storage": 4000,
+                "PSU": 4000,
+                "Motherboard": 5390
+           },
+          "Links":{"CPU":"https://www.amazon.com/s?k=AMD Ryzen 5 5500 (6 Cores/12 Threads)","GPU":"https://www.amazon.com/s?k=GIGABYTE GeForce RTX 3050 WINDFORCE OC 6G","RAM":"https://www.amazon.com/s?k=EVM 16GB DDR4 3200MHz Desktop RAM","Storage":"https://www.amazon.com/s?k=Consistent 256GB NVMe PCIe M.2 SSD","PSU":"https://www.amazon.com/s?k=Ant Esports RX550 550W 80 Plus Bronze","Motherboard":"https://www.amazon.com/s?k=GIGABYTE B450M K Micro-ATX"}},
+    "60000": {"CPU":"AMD Ryzen 5 5600 (6 Cores/12 Threads, 35MB Cache)","GPU":"ASUS Dual Radeon RX 7600 V2 OC Edition 8GB","RAM":"Crucial RAM 16GB DDR4 3200MHz","Storage":"Crucial P3 500GB PCIe 3.0 NVMe SSD","PSU":"Ant Esports VS700L 700W High Efficiency","Motherboard":"MSI B450M-A PRO MAX II","Price":60000,"ComponentPrices": {
+                      "CPU": 13000,
+                      "GPU": 29000,
+                      "RAM": 3000,
+                      "Storage": 4000,
+                      "PSU": 4000,
+                      "Motherboard": 6890
+                    },
+                    "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5500","GPU":"https://www.amazon.com/s?k=ASUS+Radeon+RX+6400+4GB","RAM":"https://www.amazon.com/s?k=Crucial+RAM+16GB+(2+x+8GB)+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS450L","Motherboard":"https://www.amazon.com/s?k=GIGABYTE+A520M+K+V2"}}
+      
+  },
+  "Office": {
+   "20000": {"CPU":"Intel i3-10100","GPU":"Integrated","RAM":"8GB","Storage":"512GB SSD","PSU":"400W","Motherboard":"H410","Price":20000,"ComponentPrices": {
+        "CPU": 8000,
+        "GPU": 0,
+        "RAM": 2000,
+        "Storage": 3500,
+        "PSU": 1500,
+        "Motherboard": 4500
+        },
+      "Links":{"CPU":"https://www.amazon.com/s?k=Intel+i3+10100","GPU":"https://www.amazon.com/s?k=Integrated+Graphics"}},
+   "25000": {"CPU":"AMD Ryzen 5 5600G (with Radeon Graphics)","GPU":"Integrated GPU: Radeon Vega 7","RAM":"Adata XPG 16GB (8GBx2) DDR4 3200MHz","Storage":"512GB NVMe M.2 SSD","PSU":"Cooler Master MWE 450W Bronze V2","Motherboard":"ASUS Prime A520M-K or MSI B450M-A Pro Max","Price":25000,"ComponentPrices": {
+        "CPU": 12000,
+        "GPU": 5000,
+        "RAM": 2000,
+        "Storage": 2500,
+        "PSU": 2400,
+        "Motherboard": 4500
+  },
+      "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5600G","GPU":"https://www.amazon.com/s?k=Integrated+GPU+Radeon™+Vega+7" ,"RAM":"https://www.amazon.com/s?k=Adata+XPG+16GB+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+M.2+SSD","PSU":"https://www.amazon.com/s?k=Cooler+Master+MWE+450W+Bronze+V2","Motherboard":"https://www.amazon.com/s?k=ASUS+Prime+A520M-K"}},
+    "30000": {"CPU":"AMD Ryzen 5 5600GT","GPU":"ASUS Radeon RX 6400 4GB","RAM":"16GB (2 x 8GB) DDR4 3200MHz","Storage":"512GB NVMe SSD","PSU":"Cooler Master MWE 450 Bronze V2","Motherboard":"ASRock B450M-HDV R4.0","Price":30000,"ComponentPrices": {
+        "CPU": 10000,
+        "GPU": 10500,
+        "RAM": 2000,
+        "Storage": 2000,
+        "PSU": 1600,
+        "Motherboard": 5390
+  },
+      "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5600GT","GPU":"https://www.amazon.com/s?k=ASUS+Radeon+RX+6400+4GB," ,"RAM":"https://www.amazon.com/s?k=16GB+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+SSD","PSU":"https://www.amazon.com/s?k=Cooler+Master+MWE+450W+Bronze+V2","Motherboard":"https://www.amazon.com/s?k=ASRock+B450M-HDV+R4.0"}},
+    "35000": {"CPU":"AMD Ryzen 5 4500","GPU":"Sapphire Pulse AMD Radeon RX 6400","RAM":"8GB DDR4 3200MHz","Storage":"256GB NVMe SSD","PSU":"Ant Esports VS400L","Motherboard":"ASRock B450M-HDV R4.0","Price":35000,"ComponentPrices": {
+        "CPU": 10000,
+        "GPU": 8000,
+        "RAM": 2000,
+        "Storage": 2000,
+        "PSU": 1300,
+        "Motherboard": 5390
+  },
+      "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+4500","GPU":"https://www.amazon.com/s?k=Sapphire+Pulse+AMD+Radeon+RX+6400","RAM":"https://www.amazon.com/s?k=8GB+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=256GB+NVMe+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS400L","Motherboard":"https://www.amazon.com/s?k=ASRock+B450M-HDV+R4.0"}},
+    "40000": {"CPU":"AMD Ryzen 5 5500","GPU":"ASUS Radeon RX 6400 4GB","RAM":"Crucial RAM 16GB (2 x 8GB) DDR4 3200MHz","Storage":"512GB NVMe SSD","PSU":"Ant Esports VS450L","Motherboard":"GIGABYTE A520M K V2","Price":40000,"ComponentPrices": {
+        "CPU": 10000,
+        "GPU": 8000,
+        "RAM": 4500,
+        "Storage": 3200,
+        "PSU": 1600,
+        "Motherboard": 5390
+  },
+       "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5500","GPU":"https://www.amazon.com/s?k=ASUS+Radeon+RX+6400+4GB","RAM":"https://www.amazon.com/s?k=Crucial+RAM+16GB+(2+x+8GB)+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS450L","Motherboard":"https://www.amazon.com/s?k=GIGABYTE+A520M+K+V2"}},
+    "45000": {"CPU":"AMD Ryzen 5 5500","GPU":"Sapphire Pulse AMD Radeon RX 6500 XT 4GB","RAM":"Crucial 16GB (2 x 8GB) DDR4 3200MHz","Storage":"512GB NVMe M.2 SSD","PSU":" Ant Esports VS500L (500W)","Motherboard":"MSI B450M-A PRO MAX II","Price":45000,"ComponentPrices": {
+          "CPU": 10000,
+          "GPU": 13500,
+          "RAM": 4500,
+          "Storage": 3200,
+          "PSU": 2200,
+          "Motherboard": 6899
+  },
+        "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5500","GPU":"https://www.amazon.com/s?k=Sapphire+Pulse+AMD+Radeon+RX+6500+XT+4GB","RAM":"https://www.amazon.com/s?k=Crucial+16GB+(2+x+8GB)+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+M.2+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS500L+(500W)","Motherboard":"https://www.amazon.com/s?k=MSI+B450M-A+PRO+MAX+II"}},
+    "50000": {"CPU":"AMD Ryzen 5 5600","GPU":"ASRock AMD Radeon RX 6600 8GB","RAM":" EVM 16GB DDR4 3200MHz","Storage":"512GB NVMe M.2 SSD","PSU":"Ant Esports VS500L (500W)","Motherboard":"GIGABYTE A520M K V2","Price":50000,"ComponentPrices": {
+            "CPU": 10000,
+            "GPU": 18000,
+            "RAM": 4500,
+            "Storage": 3200,
+            "PSU": 2200,
+            "Motherboard": 5390
+  },
+          "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5600","GPU":"https://www.amazon.com/s?k=ASRock+AMD+Radeon+RX+6600+8GB","RAM":"https://www.amazon.com/s?k=Crucial+16GB+(2+x+8GB)+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+M.2+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS500L+(500W)","Motherboard":"https://www.amazon.com/s?k=GIGABYTE+A520M+K+V2"}},
+    "55000": {"CPU":"AMD Ryzen 5 5500 (6 Cores/12 Threads)","GPU":"GIGABYTE GeForce RTX 3050 WINDFORCE OC 6G","RAM":"EVM 16GB DDR4 3200MHz Desktop RAM","Storage":"Consistent 256GB NVMe PCIe M.2 SSD","PSU":"Ant Esports RX550 550W 80 Plus Bronze","Motherboard":"GIGABYTE B450M K Micro-ATX","Price":55000,"ComponentPrices": {
+                "CPU": 10000,
+                "GPU": 22000,
+                "RAM": 10000,
+                "Storage": 4000,
+                "PSU": 4000,
+                "Motherboard": 5390
+  },
+          "Links":{"CPU":"https://www.amazon.com/s?k=AMD Ryzen 5 5500 (6 Cores/12 Threads)","GPU":"https://www.amazon.com/s?k=GIGABYTE GeForce RTX 3050 WINDFORCE OC 6G","RAM":"https://www.amazon.com/s?k=EVM 16GB DDR4 3200MHz Desktop RAM","Storage":"https://www.amazon.com/s?k=Consistent 256GB NVMe PCIe M.2 SSD","PSU":"https://www.amazon.com/s?k=Ant Esports RX550 550W 80 Plus Bronze","Motherboard":"https://www.amazon.com/s?k=GIGABYTE B450M K Micro-ATX"}},
+    "60000": {"CPU":"AMD Ryzen 5 5600 (6 Cores/12 Threads, 35MB Cache)","GPU":"ASUS Dual Radeon RX 7600 V2 OC Edition 8GB","RAM":"Crucial RAM 16GB DDR4 3200MHz","Storage":"Crucial P3 500GB PCIe 3.0 NVMe SSD","PSU":"Ant Esports VS700L 700W High Efficiency","Motherboard":"MSI B450M-A PRO MAX II","Price":60000,"ComponentPrices": {
+                      "CPU": 13000,
+                      "GPU": 29000,
+                      "RAM": 3000,
+                      "Storage": 4000,
+                      "PSU": 4000,
+                      "Motherboard": 6890
+                    },
+                    "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5500","GPU":"https://www.amazon.com/s?k=ASUS+Radeon+RX+6400+4GB","RAM":"https://www.amazon.com/s?k=Crucial+RAM+16GB+(2+x+8GB)+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS450L","Motherboard":"https://www.amazon.com/s?k=GIGABYTE+A520M+K+V2"}}
+
+},  
+ "Student": {
+    "20000": {"CPU":"Pentium Gold","GPU":"Integrated","RAM":"4GB","Storage":"256GB SSD","PSU":"400W","Motherboard":"H410","Price":20000,"ComponentPrices": {
+        "CPU": 5000,
+        "GPU": 0,
+        "RAM": 1500,
+        "Storage": 2500,
+        "PSU": 1500,
+        "Motherboard": 4500
+      },
+      "Links":{"CPU":"https://www.amazon.com/s?k=Pentium+Gold","GPU":"https://www.amazon.com/s?k=Integrated+Graphics"}},
+"25000": {"CPU":"AMD Ryzen 5 5600G (with Radeon Graphics)","GPU":"Integrated GPU: Radeon Vega 7","RAM":"Adata XPG 16GB (8GBx2) DDR4 3200MHz","Storage":"512GB NVMe M.2 SSD","PSU":"Cooler Master MWE 450W Bronze V2","Motherboard":"ASUS Prime A520M-K or MSI B450M-A Pro Max","Price":25000,"ComponentPrices": {
+        "CPU": 12000,
+        "GPU": 5000,
+        "RAM": 2000,
+        "Storage": 2500,
+        "PSU": 2400,
+        "Motherboard": 4500
+      },
+      
+      "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5600G","GPU":"https://www.amazon.com/s?k=Integrated+GPU+Radeon™+Vega+7" ,"RAM":"https://www.amazon.com/s?k=Adata+XPG+16GB+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+M.2+SSD","PSU":"https://www.amazon.com/s?k=Cooler+Master+MWE+450W+Bronze+V2","Motherboard":"https://www.amazon.com/s?k=ASUS+Prime+A520M-K"}},
+    "30000": {"CPU":"AMD Ryzen 5 5600GT","GPU":"ASUS Radeon RX 6400 4GB","RAM":"16GB (2 x 8GB) DDR4 3200MHz","Storage":"512GB NVMe SSD","PSU":"Cooler Master MWE 450 Bronze V2","Motherboard":"ASRock B450M-HDV R4.0","Price":30000,"ComponentPrices": {
+        "CPU": 10000,
+        "GPU": 10500,
+        "RAM": 2000,
+        "Storage": 2000,
+        "PSU": 1600,
+        "Motherboard": 5390
+      },
+      "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5600GT","GPU":"https://www.amazon.com/s?k=ASUS+Radeon+RX+6400+4GB," ,"RAM":"https://www.amazon.com/s?k=16GB+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+SSD","PSU":"https://www.amazon.com/s?k=Cooler+Master+MWE+450W+Bronze+V2","Motherboard":"https://www.amazon.com/s?k=ASRock+B450M-HDV+R4.0"}},
+    "35000": {"CPU":"AMD Ryzen 5 4500","GPU":"Sapphire Pulse AMD Radeon RX 6400","RAM":"8GB DDR4 3200MHz","Storage":"256GB NVMe SSD","PSU":"Ant Esports VS400L","Motherboard":"ASRock B450M-HDV R4.0","Price":35000,"ComponentPrices": {
+        "CPU": 10000,
+        "GPU": 8000,
+        "RAM": 2000,
+        "Storage": 2000,
+        "PSU": 1300,
+        "Motherboard": 5390
+      },
+      "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+4500","GPU":"https://www.amazon.com/s?k=Sapphire+Pulse+AMD+Radeon+RX+6400","RAM":"https://www.amazon.com/s?k=8GB+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=256GB+NVMe+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS400L","Motherboard":"https://www.amazon.com/s?k=ASRock+B450M-HDV+R4.0"}},
+    "40000": {"CPU":"AMD Ryzen 5 5500","GPU":"ASUS Radeon RX 6400 4GB","RAM":"Crucial RAM 16GB (2 x 8GB) DDR4 3200MHz","Storage":"512GB NVMe SSD","PSU":"Ant Esports VS450L","Motherboard":"GIGABYTE A520M K V2","Price":40000,"ComponentPrices": {
+        "CPU": 10000,
+        "GPU": 8000,
+        "RAM": 4500,
+        "Storage": 3200,
+        "PSU": 1600,
+        "Motherboard": 5390
+      },
+       "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5500","GPU":"https://www.amazon.com/s?k=ASUS+Radeon+RX+6400+4GB","RAM":"https://www.amazon.com/s?k=Crucial+RAM+16GB+(2+x+8GB)+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS450L","Motherboard":"https://www.amazon.com/s?k=GIGABYTE+A520M+K+V2"}},
+    "45000": {"CPU":"AMD Ryzen 5 5500","GPU":"Sapphire Pulse AMD Radeon RX 6500 XT 4GB","RAM":"Crucial 16GB (2 x 8GB) DDR4 3200MHz","Storage":"512GB NVMe M.2 SSD","PSU":" Ant Esports VS500L (500W)","Motherboard":"MSI B450M-A PRO MAX II","Price":45000,"ComponentPrices": {
+          "CPU": 10000,
+          "GPU": 13500,
+          "RAM": 4500,
+          "Storage": 3200,
+          "PSU": 2200,
+          "Motherboard": 6899
+},
+        "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5500","GPU":"https://www.amazon.com/s?k=Sapphire+Pulse+AMD+Radeon+RX+6500+XT+4GB","RAM":"https://www.amazon.com/s?k=Crucial+16GB+(2+x+8GB)+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+M.2+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS500L+(500W)","Motherboard":"https://www.amazon.com/s?k=MSI+B450M-A+PRO+MAX+II"}},
+    "50000": {"CPU":"AMD Ryzen 5 5600","GPU":"ASRock AMD Radeon RX 6600 8GB","RAM":" EVM 16GB DDR4 3200MHz","Storage":"512GB NVMe M.2 SSD","PSU":"Ant Esports VS500L (500W)","Motherboard":"GIGABYTE A520M K V2","Price":50000,"ComponentPrices": {
+            "CPU": 10000,
+            "GPU": 18000,
+            "RAM": 4500,
+            "Storage": 3200,
+            "PSU": 2200,
+            "Motherboard": 5390
+          },
+          "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5600","GPU":"https://www.amazon.com/s?k=ASRock+AMD+Radeon+RX+6600+8GB","RAM":"https://www.amazon.com/s?k=Crucial+16GB+(2+x+8GB)+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+M.2+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS500L+(500W)","Motherboard":"https://www.amazon.com/s?k=GIGABYTE+A520M+K+V2"}},
+    "55000": {"CPU":"AMD Ryzen 5 5500 (6 Cores/12 Threads)","GPU":"GIGABYTE GeForce RTX 3050 WINDFORCE OC 6G","RAM":"EVM 16GB DDR4 3200MHz Desktop RAM","Storage":"Consistent 256GB NVMe PCIe M.2 SSD","PSU":"Ant Esports RX550 550W 80 Plus Bronze","Motherboard":"GIGABYTE B450M K Micro-ATX","Price":55000,"ComponentPrices": {
+                "CPU": 10000,
+                "GPU": 22000,
+                "RAM": 10000,
+                "Storage": 4000,
+                "PSU": 4000,
+                "Motherboard": 5390
+              },
+          "Links":{"CPU":"https://www.amazon.com/s?k=AMD Ryzen 5 5500 (6 Cores/12 Threads)","GPU":"https://www.amazon.com/s?k=GIGABYTE GeForce RTX 3050 WINDFORCE OC 6G","RAM":"https://www.amazon.com/s?k=EVM 16GB DDR4 3200MHz Desktop RAM","Storage":"https://www.amazon.com/s?k=Consistent 256GB NVMe PCIe M.2 SSD","PSU":"https://www.amazon.com/s?k=Ant Esports RX550 550W 80 Plus Bronze","Motherboard":"https://www.amazon.com/s?k=GIGABYTE B450M K Micro-ATX"}},
+    "60000": {"CPU":"AMD Ryzen 5 5600 (6 Cores/12 Threads, 35MB Cache)","GPU":"ASUS Dual Radeon RX 7600 V2 OC Edition 8GB","RAM":"Crucial RAM 16GB DDR4 3200MHz","Storage":"Crucial P3 500GB PCIe 3.0 NVMe SSD","PSU":"Ant Esports VS700L 700W High Efficiency","Motherboard":"MSI B450M-A PRO MAX II","Price":60000,"ComponentPrices": {
+                      "CPU": 13000,
+                      "GPU": 29000,
+                      "RAM": 3000,
+                      "Storage": 4000,
+                      "PSU": 4000,
+                      "Motherboard": 6890
+                    },
+                    "Links":{"CPU":"https://www.amazon.com/s?k=AMD+Ryzen+5+5500","GPU":"https://www.amazon.com/s?k=ASUS+Radeon+RX+6400+4GB","RAM":"https://www.amazon.com/s?k=Crucial+RAM+16GB+(2+x+8GB)+DDR4+3200MHz","Storage":"https://www.amazon.com/s?k=512GB+NVMe+SSD","PSU":"https://www.amazon.com/s?k=Ant+Esports+VS450L","Motherboard":"https://www.amazon.com/s?k=GIGABYTE+A520M+K+V2"}}
+      
+    }
+}

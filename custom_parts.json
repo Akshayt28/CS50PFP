@@ -1,0 +1,27 @@
+{
+  "CPU": {
+    "Intel i3": {"Price": 7000, "Link": "https://www.amazon.com/s?k=Intel+i3+CPU"},
+    "Intel i5": {"Price": 12000, "Link": "https://www.amazon.com/s?k=Intel+i5+CPU"},
+    "Intel i7": {"Price": 20000, "Link": "https://www.amazon.com/s?k=Intel+i7+CPU"},
+    "AMD Ryzen 3": {"Price": 8000, "Link": "https://www.amazon.com/s?k=AMD+Ryzen+3"},
+    "AMD Ryzen 5": {"Price": 14000, "Link": "https://www.amazon.com/s?k=AMD+Ryzen+5"},
+    "AMD Ryzen 7": {"Price": 22000, "Link": "https://www.amazon.com/s?k=AMD+Ryzen+7"}
+  },
+  "GPU": {
+    "GTX 1650": {"Price": 12000, "Link": "https://www.amazon.com/s?k=GTX+1650"},
+    "RTX 3060": {"Price": 25000, "Link": "https://www.amazon.com/s?k=RTX+3060"},
+    "RTX 3070": {"Price": 40000, "Link": "https://www.amazon.com/s?k=RTX+3070"},
+    "RX 6600": {"Price": 20000, "Link": "https://www.amazon.com/s?k=RX+6600"},
+    "RX 6700": {"Price": 30000, "Link": "https://www.amazon.com/s?k=RX+6700"}
+  },
+  "RAM": {
+    "8GB": {"Price": 3000, "Link": "https://www.amazon.com/s?k=8GB+DDR4"},
+    "16GB": {"Price": 6000, "Link": "https://www.amazon.com/s?k=16GB+DDR4"},
+    "32GB": {"Price": 12000, "Link": "https://www.amazon.com/s?k=32GB+DDR4"}
+  },
+  "Storage": {
+    "256GB SSD": {"Price": 3000, "Link": "https://www.amazon.com/s?k=256GB+SSD"},
+    "512GB SSD": {"Price": 5000, "Link": "https://www.amazon.com/s?k=512GB+SSD"},
+    "1TB NVMe": {"Price": 8000, "Link": "https://www.amazon.com/s?k=1TB+NVMe+SSD"}
+  }
+}
